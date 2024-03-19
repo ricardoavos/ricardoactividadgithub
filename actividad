@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html> 
+<head>
+    <meta charset="UTF-8">
+    <title>RogoF!t</title>
+</head>
+<body>
+
+    <header>
+        <nav>
+            <h1>RogoFit</h1>
+            <a href="home">Home</a>
+            <a href="program">Program</a>
+            <a href="community">Community</a>
+            <a href="blog">Blog</a>
+            <a href="pricing">Pricing</a>
+            <a href="login">Login</a>
+        </nav>
+    </header>
+
+    <main>
+        <h1>Workout at Home with Virtual Trainer</h1>
+        <h2>In this pandemic period, it's very important to pay attention to the immune system, rather than you being exposed to the virus, it's better if we take care of our immunity by exercising, just relax at home.</h2>
+        <a href="start now">Start Now</a>
+        <a href="how we work">How We Work</a>
+
+        <img src="chica.png"/>
+    </main>
+
+    <footer>
+    <a href="contact">Contact Us</a>
+    <a href="Email: ricardo@unisabana.edu.co">Email: ricardo@unisabana.edu.co</a>
+    <a href="Phone: +57317706212">Phone: +57317706212</a>
+    </footer>
+
+</body>
+</html>
+
